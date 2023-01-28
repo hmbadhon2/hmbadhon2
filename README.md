@@ -1,4 +1,4 @@
-### Hi there 👋, my name is HM Mizanur Rahman Badhon
+### my name is HM Mizanur Rahman Badhon
 #### I am full-stack web developer with react
 ![I am full-stack web developer with react](https://media.licdn.com/dms/image/D4E16AQFwF_NAdsnjMA/profile-displaybackgroundimage-shrink_350_1400/0/1670510962067?e=1680134400&v=beta&t=mRDuq1uiaLjWpaUlxfDmEBCCWVNLAy6Ax8b63l0rKxo)
 
